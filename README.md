@@ -4,6 +4,7 @@
 [![codecov](https://codecov.io/gh/project-copacetic/copacetic/branch/main/graph/badge.svg?token=PBC8EPNHRL)](https://codecov.io/gh/project-copacetic/copacetic)
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/project-copacetic/copacetic/badge)](https://api.securityscorecards.dev/projects/github.com/project-copacetic/copacetic)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fproject-copacetic%2Fcopacetic.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fproject-copacetic%2Fcopacetic?ref=badge_shield)
 
 `copa` is a CLI tool written in [Go](https://golang.org) and based on [buildkit](https://github.com/moby/buildkit) that can be used to directly patch container images given the vulnerability scanning results from popular tools like [Trivy](https://github.com/aquasecurity/trivy).
 
@@ -56,3 +57,7 @@ There are several ways to get involved:
 * Join the `#copa` channel on the [OCI Slack](https://communityinviter.com/apps/opencontainers/join-the-oci-community)
 
 The project welcomes contributions and suggestions that abide by the [Code of Conduct](./CODE_OF_CONDUCT.md)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fproject-copacetic%2Fcopacetic.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fproject-copacetic%2Fcopacetic?ref=badge_large)
